@@ -15,6 +15,7 @@ RUN \
 	openssh-server \
 	openssh-sftp-server \
 	unrar \
+	findutils \
 	mc \
 	sudo && \
  echo "**** setup openssh environment ****" && \
