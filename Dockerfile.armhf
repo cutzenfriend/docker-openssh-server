@@ -14,6 +14,7 @@ RUN \
 	nano \
 	openssh-server \
 	openssh-sftp-server \
+	unrar \
 	mc \
 	sudo && \
  echo "**** setup openssh environment ****" && \
